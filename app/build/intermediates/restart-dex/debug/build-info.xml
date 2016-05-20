@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="400dpi"
+    format="7"
+    timestamp="19800902641128"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="119" />
+    <task
+        name="instant-run-dex"
+        duration="394" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="/home/allan/AndroidStudioProjects/ProPomodoro/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="19701690210070" >
+        <artifact
+            location="/home/allan/AndroidStudioProjects/ProPomodoro/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="19800902641128"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/allan/AndroidStudioProjects/ProPomodoro/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

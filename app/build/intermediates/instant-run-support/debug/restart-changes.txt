@@ -1,0 +1,1 @@
+CHANGED,/home/allan/AndroidStudioProjects/ProPomodoro/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/br/edu/fa7/propomodoro/MainActivity.class
